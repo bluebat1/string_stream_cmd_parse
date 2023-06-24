@@ -1,0 +1,5 @@
+@cmake --build .
+make VERBOSE=1
+
+echo "-----------"
+./string_stream_parse

@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"*.effect": "glsl",
+		"time33.h": "c"
+	}
+}
